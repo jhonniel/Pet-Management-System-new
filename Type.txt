@@ -1,0 +1,9 @@
+Cat
+Dog
+Spider
+Dragon
+Pokemon
+Frog
+Suwang
+Aswang
+		
